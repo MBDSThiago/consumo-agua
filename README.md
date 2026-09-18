@@ -8,15 +8,15 @@ O programa pergunta o imóvel e o consumo mensal de água em (m³), classificand
 
 💻 Como executar:
 
-Tenha o --Python 3.10 ou superior-- instalado.
+1. Tenha o --Python 3.10 ou superior-- instalado.
 
-Baixe o repositório.
+2. Baixe o repositório.
 
-Abra o projeto no Visual Studio Code.
+3. Abra o projeto no Visual Studio Code.
 
- Execute o arquivo Python.
+4. Execute o arquivo Python.
 
-Informe o tipo de imóvel e o consumo mensal quando solicitado.
+5. Informe o tipo de imóvel e o consumo mensal quando solicitado.
 
 🛠️ Tecnologias utilizadas:
 
