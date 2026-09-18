@@ -20,6 +20,6 @@ Informe o tipo de imóvel e o consumo mensal quando solicitado.
 
 🛠️ Tecnologias utilizadas:
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
